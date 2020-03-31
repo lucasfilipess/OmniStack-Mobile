@@ -25,11 +25,12 @@ rotas: https://reactnavigation.org/docs/getting-started
 
 navegação: https://reactnavigation.org/docs/hello-react-navigation
 
-remover da barra de notificaçaõ o app
+remover da barra de notificação o app
+
 expo install expo-constants
 
 email: expo install expo-mail-composer
 
 rotas com o axios => yarn add axios ou npm install axios
 
-a formatação intl não funciona no android por isso instala-se um pacote inl para resolver isso => yarn add intl
+a formatação intl não funciona no android por isso instala-se um pacote intl para resolver isso => yarn add intl
