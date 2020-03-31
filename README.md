@@ -1,4 +1,6 @@
-////Usar de preferencia o Yarn ja que ele vem por padrão/////////////
+# OmniStack-Mobile
+
+Usar de preferencia o Yarn ja que ele vem por padrão
 
 instalando o expo de forma global para ser usado em qualquer ambiente
 
